@@ -1,0 +1,1 @@
+Scenario 1 : Book a product in the webpage
