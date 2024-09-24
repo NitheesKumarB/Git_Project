@@ -1,3 +1,7 @@
 Scenario 1 : Book a product in the webpage
 
+// by nithees
 Scenario 2 : Buy a Product in the webpage
+// by gopi
+Scenario 2 : buy something
+>>>>>>> ModuleProject
