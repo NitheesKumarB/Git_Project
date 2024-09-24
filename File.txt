@@ -1,1 +1,3 @@
 Scenario 1 : Book a product in the webpage
+
+Scenario 2 : Buy a Product in the webpage
